@@ -22,10 +22,9 @@ if ($_SESSION['user']['role'] == 'anggota') {
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="../assets/img/joker-afk.jpg">
     <title>
-        Soft UI Dashboard by Creative Tim
+    Perpustakaan Digital AfK
     </title>
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -52,8 +51,8 @@ if ($_SESSION['user']['role'] == 'anggota') {
         <div class="sidenav-header">
             <i class="fas fa-times p-3 cursor-pointer text-secondary opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
             <a class="navbar-brand m-0">
-                <img src="../assets/img/logo-ct-dark.png" class="navbar-brand-img h-100" alt="main_logo">
-                <span class="ms-1 font-weight-bold">Smile Perpus</span>
+                <img src="../assets/img/joker-afk.jpg" class="navbar-brand-img h-100" alt="main_logo">
+                <span class="ms-1 font-weight-bold">Digital Perpus AfK</span>
             </a>
         </div>
         <hr class="horizontal dark mt-0">
